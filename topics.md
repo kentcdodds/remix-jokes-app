@@ -1,0 +1,9 @@
+- Outlet/Link
+- Loader
+- CSS -> link -> Links
+- Nested Route
+- Error Boundary (/jokes.jsx)
+- Catch Boundary (/jokes/$jokeId.jsx)
+- Action (/jokes/$jokeId.jsx)
+- Validation (server first, then client)
+- Deploying to Fly
